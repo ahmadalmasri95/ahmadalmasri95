@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmadalmasri95
-- 👀 I’m interested in AI
-- 🌱 I’m currently beginner to Machine learning and Data Science
-- 💞️ I’m looking to collaborate on big ML project
+- 👀 I’m interested in cyber threats and security hardening
+- 🌱 I’m currently beginner in Cybersecurity field
+- 💞️ I’m looking to collaborate on cybersecurity projects
 - 📫 You can reach me by email : ahmadalmasri19@gmail.com
 
 <!---
